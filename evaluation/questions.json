@@ -1,0 +1,41 @@
+{
+  "description": "Synthetic questions for fictional sample documents; not a production benchmark.",
+  "positive": [
+    {"question": "How should AI-generated information be checked before sharing?", "source": "sample_ai_guidelines.txt"},
+    {"question": "What tasks can AI tools support at work?", "source": "sample_ai_guidelines.txt"},
+    {"question": "Can staff paste personal information into an unapproved AI tool?", "source": "sample_ai_guidelines.txt"},
+    {"question": "Where must confidential company information be kept?", "source": "sample_company_policy.txt"},
+    {"question": "What should staff do before an operational decision based on uncertain information?", "source": "sample_company_policy.txt"},
+    {"question": "How should internal documentation be handled before publication?", "source": "sample_company_policy.txt"},
+    {"question": "What is the deadline for claiming a business purchase?", "source": "sample_expenses.md"},
+    {"question": "For what amount does an expense need a receipt?", "source": "sample_expenses.md"},
+    {"question": "Who approves a reimbursement claim before finance reviews it?", "source": "sample_expenses.md"},
+    {"question": "When should the hiring manager order a new starter's laptop?", "source": "sample_onboarding.txt"},
+    {"question": "What time is the new employee orientation?", "source": "sample_onboarding.txt"},
+    {"question": "When must new hires finish the security introduction?", "source": "sample_onboarding.txt"},
+    {"question": "How does an employee request a new user account?", "source": "sample_account_access.md"},
+    {"question": "What authentication protects the document workspace?", "source": "sample_account_access.md"},
+    {"question": "May I give my approval code to a colleague?", "source": "sample_account_access.md"},
+    {"question": "When is the IT help desk staffed?", "source": "sample_it_support.txt"},
+    {"question": "What information belongs in a broken-laptop ticket?", "source": "sample_it_support.txt"},
+    {"question": "Where do I reset my password?", "source": "sample_it_support.txt"},
+    {"question": "How quickly must a phishing message be reported?", "source": "sample_incident_response.pdf", "page": 1},
+    {"question": "Should I open an attachment in a suspicious email?", "source": "sample_incident_response.pdf", "page": 1},
+    {"question": "What should I do with a laptop that may be compromised?", "source": "sample_incident_response.pdf", "page": 2},
+    {"question": "Can I delete device logs after a security incident?", "source": "sample_incident_response.pdf", "page": 2}
+  ],
+  "out_of_scope": [
+    "Who won the football World Cup in 1998?",
+    "What is the CEO's personal phone number?",
+    "How far away is the moon?",
+    "How many annual leave days do employees get?",
+    "Who approves a holiday request?",
+    "Where can I find the lunch menu?",
+    "What is the corporate dress code?",
+    "What is the finance portal URL?",
+    "How much is the monthly salary?",
+    "Who is the CEO?",
+    "What is the Wi-Fi password?",
+    "Can I bring my dog to the office?"
+  ]
+}
