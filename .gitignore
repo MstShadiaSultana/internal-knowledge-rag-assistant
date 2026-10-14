@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+.cache/
+models/
+data/*
+!data/sample_*.txt
+!data/sample_*.md
+!data/sample_*.pdf
