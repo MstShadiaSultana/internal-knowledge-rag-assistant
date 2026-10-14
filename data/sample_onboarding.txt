@@ -1,0 +1,3 @@
+Fictional Example: New Employee Onboarding
+
+The hiring manager requests a laptop at least five business days before a new employee starts. New employees attend an orientation session on Wednesday at 10:00. Their manager introduces the team and confirms the first-week schedule. The IT service desk hands over the laptop after an identity check. New hires should complete the information security introduction during their first week.

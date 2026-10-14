@@ -1,0 +1,3 @@
+Fictional Example: IT Support
+
+The IT service desk is staffed on weekdays from 09:00 to 17:00. For a broken laptop, open a hardware ticket in the service desk portal and include the device asset tag. The service desk assigns a replacement device when a repair cannot be completed promptly. Password reset requests must go through the self-service reset page. Employees should not send passwords in a support ticket.

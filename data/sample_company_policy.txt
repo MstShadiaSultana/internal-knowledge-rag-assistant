@@ -1,0 +1,8 @@
+Fictional Example: Company Policy
+
+Employees should keep confidential company information inside approved company systems.
+Sensitive customer data must not be copied into public tools without authorization.
+Internal documentation should be written clearly and reviewed before publication.
+
+Team members should verify important information before making operational decisions.
+If an answer from an AI system is uncertain, the original source document should be checked.

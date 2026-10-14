@@ -1,0 +1,10 @@
+Fictional Example: AI Usage Guidelines
+
+AI tools may be used to support research, drafting, summarization, and internal knowledge access.
+AI-generated information should be treated as assistance rather than a guaranteed source of truth.
+
+Before sharing important AI-generated content, users should verify the information against reliable
+internal documents or other approved sources.
+
+Employees should avoid entering confidential or personal information into tools that are not approved
+for that type of data.

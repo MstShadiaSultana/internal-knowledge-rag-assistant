@@ -1,0 +1,109 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 595 842 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20261014213259+01'00') /Creator (anonymous) /Keywords () /ModDate (D:20261014213259+01'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (Fictional Security Incident Response Example) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Length 498
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 48 780 Tm (Fictional Example: Security Incident Response) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 48 742 Tm (Suspected phishing emails must be reported through the internal security portal) Tj T* ET
+BT 1 0 0 1 48 725 Tm (within one hour. Do not click links or open attachments in suspicious messages.) Tj T* ET
+BT 1 0 0 1 48 708 Tm (The security team triages the report and contacts the employee if needed.) Tj T* ET
+ 
+endstream
+endobj
+10 0 obj
+<<
+/Length 451
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 48 780 Tm (Device containment and evidence) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 48 742 Tm (If a company laptop may be compromised, disconnect it from Wi-Fi and) Tj T* ET
+BT 1 0 0 1 48 725 Tm (contact the security team through the incident portal. Do not delete logs) Tj T* ET
+BT 1 0 0 1 48 708 Tm (or reset the device before the security team advises you.) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001073 00000 n 
+0000001138 00000 n 
+0000001686 00000 n 
+trailer
+<<
+/ID 
+[<55a81957bfecaa78d88af8aa8164d3d1><55a81957bfecaa78d88af8aa8164d3d1>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
+startxref
+2188
+%%EOF
